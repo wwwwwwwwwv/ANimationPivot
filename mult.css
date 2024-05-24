@@ -171,9 +171,14 @@ nav a {
 
   }
 
+  .mult{
+
+    width: 100%;
+  }
+
   header{
     display: grid;
-    padding: 10px 90px;
+    padding: 10px 5px;
   
     text-align: center;
   }
@@ -182,14 +187,14 @@ nav a {
 
 
   .box {
-    width: 375px;
+    width: 95%;
     height: 300px;
 
   }
 
 
   .grid {
-    padding: 5px;
+    padding: 10px;
   }
 
 }
