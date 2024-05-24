@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+body{
+ background-image: url('https://img.alicdn.com/imgextra/i3/6000000001646/O1CN018wYeIk1O1ud1tyioq_!!6000000001646-0-tbvideo.jpg');
+ background-size: cover;
+width: 100%;
+
+}
+
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 90px 100px;
+  
+  p{
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px rgb(126, 126, 223);
+  }
+}
+
+
+
+form{
+background-image: url('https://i.gifer.com/9TFY.gif');
+ background-size: cover;
+  width: 40%;
+  height: 70vh;
+  padding: 15px 10px;
+  border-radius: 8px;
+  position: relative;
+  box-shadow: -1px 3px 16px 13px rgba(34, 60, 80, 0.2);
+  opacity: .9;
+
+  label{
+    color: #fff;
+  }
+
+  input{
+    height: 40px;
+    width: 99%;
+    border-radius: 5px;
+
+   outline: none;
+  }
+
+}
+
+.btn {
+  position: absolute;
+  left: 22%;
+  top: 90%;
+  display: flex;
+  gap: 50px;
+
+
+  
+  
+  
+
+  button{
+    
+    height:5vh;
+  }
+}
