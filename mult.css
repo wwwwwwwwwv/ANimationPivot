@@ -171,9 +171,11 @@ nav a {
 
   }
 
-  header {
+  header{
     display: grid;
-    padding: 0px;
+    padding: 10px 90px;
+  
+    text-align: center;
   }
 
 
