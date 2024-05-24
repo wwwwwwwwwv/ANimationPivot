@@ -47,6 +47,14 @@ form input {
 }
 
 
+.flex a{
+  color: black;
+text-decoration: none;
+  background-color: aliceblue;
+   padding: 5px;
+}
+
+
 
 button{
   width: 100px;
