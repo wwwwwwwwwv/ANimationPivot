@@ -46,16 +46,16 @@ form input {
   outline: none;
 }
 
-.btn {
-  position: absolute;
-  left: 22%;
-  top: 90%;
-  display: flex;
-  gap: 50px;
+
+
+button{
+  width: 100px;
+  height: 35px;
+background-color: gray;
+
 }
-.btn button {
-  height: 5vh;
-}/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=style.css.map */
 
 
 
@@ -75,4 +75,9 @@ form input {
 
 
 
+}
+
+
+input {
+  margin-bottom: 10px;
 }
